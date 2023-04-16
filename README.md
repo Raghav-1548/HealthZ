@@ -19,6 +19,7 @@ d. Installation steps:
 
 Clone the repository
 Install Node.js and MongoDB
+Install Next.js 
 Run npm install to install the required dependencies
 Run npm start to start the development server
 
